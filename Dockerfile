@@ -1,4 +1,4 @@
-FROM python:3.8-slim-buster
+FROM python:3.9-slim-buster
 
 EXPOSE 8501
 
@@ -12,6 +12,6 @@ WORKDIR /airbnb
 
 COPY . /airbnb
 
-RUN pip3 install -r requirements.txt
+RUN pip install -r requirements.txt
 
 ENTRYPOINT ["streamlit", "run", "airbnb.py", "--server.port=8501", "--server.address=0.0.0.0"]
