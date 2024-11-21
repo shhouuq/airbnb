@@ -1,5 +1,7 @@
 # Airbnb price prediction in Riyadh
 
+![Airbnb Price Prediction]([https://example.com/airbnb-price-prediction.png](https://github.com/shhouuq/airbnb/blob/main/1.-Riyadh-Targets-Worlds-Top-10-Global-Cities-by-2030-with-1-Trillion-Projects-.jpg))
+
 ## Overview
 
 This project aims to predict Airbnb listing prices in Saudi Arabia, Riyadh using machine learning techniques. By analyzing various factors such as location, property type, amenities, and ratings, the model predicts the nightly rental price for a given Airbnb listing. This can help property owners optimize their pricing strategy and enhance their hosbitality as well as providing insights for potential renters.
