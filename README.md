@@ -1,6 +1,6 @@
 # Airbnb price prediction in Riyadh
 
-![Airbnb Price Prediction](images/airbnb-price-prediction.png)
+![Airbnb Price Prediction](1.-Riyadh-Targets-Worlds-Top-10-Global-Cities-by-2030-with-1-Trillion-Projects-.jpg)
 
 
 ## Overview
